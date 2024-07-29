@@ -96,7 +96,7 @@ article {
 .header-title {
   font-weight: var(--fw-light);
   font-size: 1.562rem;
-  line-height: 1.2;
+  line-height: 1.3;
 }
 .header-title_span {
   font-weight: var(--fw-bold);
@@ -115,7 +115,7 @@ header p {
 .card {
   background-color: var(--Very-Light-Gray);
   border-radius: 5px;
-  padding: 1.65rem;
+  padding: 1.65rem 1.75rem;
   line-height: 1.7;
   position: relative;
   box-shadow: 0 0.5rem 1.25rem rgba(0, 0, 0, 0.2);
@@ -123,6 +123,7 @@ header p {
 .card-title {
   color: var(--Very-Dark-Blue);
   font-weight: var(--fw-bold);
+  font-size: 18px;
 }
 .card-content {
   padding-bottom: 6.5rem;
