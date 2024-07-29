@@ -91,7 +91,7 @@ article {
 .article-header {
   text-align: center;
   color: var(--Very-Dark-Blue);
-  margin-bottom: 3.95rem;
+  margin-bottom: 2.95rem;
 }
 .header-title {
   font-weight: var(--fw-light);
@@ -126,7 +126,7 @@ header p {
   font-size: 18px;
 }
 .card-content {
-  padding-bottom: 6.5rem;
+  padding-bottom: 7rem;
 }
 .card-icon {
   position: absolute;
